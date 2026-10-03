@@ -1,5 +1,5 @@
-let nome = prompt("Digite o nome do herói:");
-let xp = Number(prompt("Digite a quantidade de XP:"));
+let nome = "Cesar"
+let xp = 5000;
 
 let nivel;
 
